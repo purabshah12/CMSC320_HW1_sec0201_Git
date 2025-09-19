@@ -10,5 +10,5 @@ field and data science can be utilized heavily to benefit people within this sec
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: Merging takes two file histories and attempts to merge them into 1 clean commit. Rebasing instead attempts to add the changes
+Answer: Merging takes two file histories and attempts to merge them into 1 clean commit by "merging histories". Rebasing instead attempts to add the changes
 into the repository cleanly by adding onto the history.
